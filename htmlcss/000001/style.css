@@ -61,3 +61,10 @@
     height: 371px;
     background-color: darksalmon;
 }
+.right_bottom_img{
+    width: 80%;
+    height: 80%;
+    background-color: black;
+    margin: auto;
+    margin-top: 5%;
+}
